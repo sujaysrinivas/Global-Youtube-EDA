@@ -1,5 +1,7 @@
 # Global-Youtube-EDA
 
+  ![vecteezy_youtube-logo-png-youtube-icon-transparent_18930572](https://github.com/user-attachments/assets/1fbccae5-9363-4fd8-8ba4-48bbc3a295be)
+
 ### Objective
 Performing comprehensive Exploratory Data Analysis (EDA) on global YouTube data to identify trends, derive actionable insights, and create data visualizations.          These insights aim to support YouTubers in optimizing content quality, enhancing revenue streams, and expanding their global audience reach.
 
