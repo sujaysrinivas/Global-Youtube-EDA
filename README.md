@@ -13,6 +13,7 @@ Python - Data import, data cleaning and EDA process
 
 ### Link to the Jupyter Notebook
 
+Jupyter Notebook [https://github.com/sujaysrinivas/Global-Youtube-EDA/blob/main/Youtube%20EDA.ipynb]
 
 ### Description
 The Global YouTube Statistics dataset comprises records of YouTubers, including metrics such as channel subscribers, uploads, views, earnings, and more. The primary objective of this project is to conduct an in-depth Exploratory Data Analysis (EDA) to uncover trends, generate impactful data visualizations, and deliver actionable insights. These insights will offer valuable suggestions to help YouTubers enhance their content, boost revenue, and expand their global presence
