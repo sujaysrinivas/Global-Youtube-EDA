@@ -4,8 +4,6 @@
 
 ## Project Overview
 
-### For a Quick summary of the project, click the link below
-
 Link to the Presentation : [https://github.com/sujaysrinivas/Global-Youtube-EDA/blob/main/YouTube%20EDA%20Presentation.pptx] 
 
 ### Business Problem
@@ -28,6 +26,9 @@ Performing comprehensive Exploratory Data Analysis (EDA) on global YouTube data 
 
 ## Detailed Analysis
 
+### Description
+The Global YouTube Statistics dataset comprises records of YouTubers, including metrics such as channel subscribers, uploads, views, earnings, and more. The primary objective of this project is to conduct an in-depth Exploratory Data Analysis (EDA) to uncover trends, generate impactful data visualizations, and deliver actionable insights. These insights will offer valuable suggestions to help YouTubers enhance their content, boost revenue, and expand their global presence
+
 ### Data source
 Dataset: The dataset used for this Analysis is the Global YouTube Statistics.csv file
 
@@ -38,8 +39,6 @@ Python - Data import, data cleaning and EDA process
 
 Jupyter Notebook [https://github.com/sujaysrinivas/Global-Youtube-EDA/blob/main/Youtube%20EDA.ipynb]
 
-### Description
-The Global YouTube Statistics dataset comprises records of YouTubers, including metrics such as channel subscribers, uploads, views, earnings, and more. The primary objective of this project is to conduct an in-depth Exploratory Data Analysis (EDA) to uncover trends, generate impactful data visualizations, and deliver actionable insights. These insights will offer valuable suggestions to help YouTubers enhance their content, boost revenue, and expand their global presence
 
 
 
