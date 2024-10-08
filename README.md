@@ -4,6 +4,10 @@
 
 ## Project Overview
 
+### For a Quick summary of the project, click the link below
+
+Link to the Presentation : [https://github.com/sujaysrinivas/Global-Youtube-EDA/blob/main/YouTube%20EDA%20Presentation.pptx] 
+
 ### Business Problem
 Performing comprehensive Exploratory Data Analysis (EDA) on global YouTube data to identify trends, derive actionable insights, and create data visualizations.          These insights aim to support YouTubers in optimizing content quality, enhancing revenue streams, and expanding their global audience reach.
 
